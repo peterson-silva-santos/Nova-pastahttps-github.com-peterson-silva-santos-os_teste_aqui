@@ -1,0 +1,15 @@
+C:\Users\peko_\Desktop\faculdade\c#\percentual por estado\percentual por estado\bin\Debug\net7.0\percentual por estado.exe
+C:\Users\peko_\Desktop\faculdade\c#\percentual por estado\percentual por estado\bin\Debug\net7.0\percentual por estado.deps.json
+C:\Users\peko_\Desktop\faculdade\c#\percentual por estado\percentual por estado\bin\Debug\net7.0\percentual por estado.runtimeconfig.json
+C:\Users\peko_\Desktop\faculdade\c#\percentual por estado\percentual por estado\bin\Debug\net7.0\percentual por estado.dll
+C:\Users\peko_\Desktop\faculdade\c#\percentual por estado\percentual por estado\bin\Debug\net7.0\percentual por estado.pdb
+C:\Users\peko_\Desktop\faculdade\c#\percentual por estado\percentual por estado\obj\Debug\net7.0\percentual por estado.csproj.AssemblyReference.cache
+C:\Users\peko_\Desktop\faculdade\c#\percentual por estado\percentual por estado\obj\Debug\net7.0\percentual por estado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peko_\Desktop\faculdade\c#\percentual por estado\percentual por estado\obj\Debug\net7.0\percentual por estado.AssemblyInfoInputs.cache
+C:\Users\peko_\Desktop\faculdade\c#\percentual por estado\percentual por estado\obj\Debug\net7.0\percentual por estado.AssemblyInfo.cs
+C:\Users\peko_\Desktop\faculdade\c#\percentual por estado\percentual por estado\obj\Debug\net7.0\percentual por estado.csproj.CoreCompileInputs.cache
+C:\Users\peko_\Desktop\faculdade\c#\percentual por estado\percentual por estado\obj\Debug\net7.0\percentual por estado.dll
+C:\Users\peko_\Desktop\faculdade\c#\percentual por estado\percentual por estado\obj\Debug\net7.0\refint\percentual por estado.dll
+C:\Users\peko_\Desktop\faculdade\c#\percentual por estado\percentual por estado\obj\Debug\net7.0\percentual por estado.pdb
+C:\Users\peko_\Desktop\faculdade\c#\percentual por estado\percentual por estado\obj\Debug\net7.0\percentual por estado.genruntimeconfig.cache
+C:\Users\peko_\Desktop\faculdade\c#\percentual por estado\percentual por estado\obj\Debug\net7.0\ref\percentual por estado.dll

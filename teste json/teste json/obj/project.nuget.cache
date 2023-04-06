@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KSkUpqh2jc7XfaCnFmuaT8wfyclNHyOTOwpt/xjpZvoBKRHkJVliJxjPM45qW9oSJHRf8TFoUxh2RB95A6jJ8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\peko_\\Desktop\\faculdade\\c#\\teste json\\teste json\\teste json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peko_\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\bin\Debug\net7.0\teste json.exe
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\bin\Debug\net7.0\teste json.deps.json
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\bin\Debug\net7.0\teste json.runtimeconfig.json
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\bin\Debug\net7.0\teste json.dll
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\bin\Debug\net7.0\teste json.pdb
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\obj\Debug\net7.0\teste json.csproj.AssemblyReference.cache
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\obj\Debug\net7.0\teste json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\obj\Debug\net7.0\teste json.AssemblyInfoInputs.cache
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\obj\Debug\net7.0\teste json.AssemblyInfo.cs
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\obj\Debug\net7.0\teste json.csproj.CoreCompileInputs.cache
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\obj\Debug\net7.0\teste json.csproj.CopyComplete
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\obj\Debug\net7.0\teste json.dll
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\obj\Debug\net7.0\refint\teste json.dll
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\obj\Debug\net7.0\teste json.pdb
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\obj\Debug\net7.0\teste json.genruntimeconfig.cache
+C:\Users\peko_\Desktop\faculdade\c#\teste json\teste json\obj\Debug\net7.0\ref\teste json.dll

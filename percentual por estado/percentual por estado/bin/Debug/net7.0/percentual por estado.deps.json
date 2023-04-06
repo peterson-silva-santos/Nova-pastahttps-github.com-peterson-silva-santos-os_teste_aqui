@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "percentual por estado/1.0.0": {
+        "runtime": {
+          "percentual por estado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "percentual por estado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

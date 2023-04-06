@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "percentual por estado", "percentual por estado\percentual por estado.csproj", "{AE8E5867-B192-46EA-8C94-8543CE2DFC85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE8E5867-B192-46EA-8C94-8543CE2DFC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8E5867-B192-46EA-8C94-8543CE2DFC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8E5867-B192-46EA-8C94-8543CE2DFC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8E5867-B192-46EA-8C94-8543CE2DFC85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B89854C-1632-4AEB-982A-B4A8101FE192}
+	EndGlobalSection
+EndGlobal
